@@ -1,4 +1,10 @@
 # Rpi-Power8A
+以下の link を参照ください<br/>
+[https://www.zhtelec.com/p/Rpi-F9PD9C](https://www.zhtelec.com/p/Rpi-F9PD9C)
+<br/>
+<br/>
+<br/>
+<br/>
 Power board for Raspberry Pi5, supply from USB PD (12V)
 
 ## First Of All
