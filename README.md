@@ -1,6 +1,6 @@
 # Rpi-Power8A
 以下の link を参照ください<br/>
-[https://www.zhtelec.com/p/Rpi-F9PD9C](https://www.zhtelec.com/p/Rpi-F9PD9C)
+[https://www.zhtelec.com/p/Rpi-Power8A](https://www.zhtelec.com/p/Rpi-Power8A)
 <br/>
 <br/>
 <br/>
